@@ -2,7 +2,7 @@
 
 ![project view](https://github.com/user-attachments/assets/7a7d0ef1-1dd2-463e-9edb-89734b888432)
 
-- [Demo Project](https://alireza-foroutan.github.io/Captcha-code/)
+- [Demo Project](https://alireza-foroutan.github.io/Captcha-code-generator/)
 
 - Developed by Alireza Foroutan
 
