@@ -1,6 +1,6 @@
 # Captcha code generator, hope you enjoy!
 
-![project view](https://github.com/user-attachments/assets/61692b04-9c05-4f2a-8b71-8767558ec20c)
+![project view](https://github.com/user-attachments/assets/7a7d0ef1-1dd2-463e-9edb-89734b888432)
 
 - [Demo Project](https://alireza-foroutan.github.io/Captcha-code/)
 
